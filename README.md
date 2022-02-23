@@ -1,2 +1,2 @@
-# nyspi-reu
-test website for nyspi-reu site
+# Research Experience for Undergraduates at NYSPI
+PsycHiAtric Research Training (PHART)  

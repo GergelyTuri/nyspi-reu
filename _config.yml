@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: [Research Experience for Undergraduates at New York State Psychiatric Institute (NYSPI)]
 description: [Neuroscience Summer Undergraduate Research Experience in Developmental/Translational Neuroscience (Neuro-SURE)]
+
+markdown: kramdown
+permalink: pretty

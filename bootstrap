@@ -238,4 +238,140 @@ Changes to be committed:
 	[32mnew file:   _includes/about.html[m
 	[32mnew file:   _includes/contact.html[m
 	[32mnew file:   _includes/css/bootstrap.min.css[m
-	[32mn
+	[32mnew file:   _includes/css/grayscale.css[m
+	[32mnew file:   _includes/footer.html[m
+	[32mnew file:   _includes/head.html[m
+	[32mnew file:   _includes/header.html[m
+	[32mnew file:   _includes/js.html[m
+	[32mnew file:   _includes/mentors.html[m
+	[32mnew file:   _includes/nav.html[m
+	[32mnew file:   _layouts/bio.html[m
+	[32mnew file:   _layouts/default.html[m
+	[32mnew file:   _layouts/style.css[m
+	[32mnew file:   bootstrap[m
+	[32mnew file:   css/font-awesome/css/font-awesome.css[m
+	[32mnew file:   css/font-awesome/css/font-awesome.min.css[m
+	[32mnew file:   css/font-awesome/fonts/FontAwesome.otf[m
+	[32mnew file:   css/font-awesome/fonts/fontawesome-webfont.eot[m
+	[32mnew file:   css/font-awesome/fonts/fontawesome-webfont.svg[m
+	[32mnew file:   css/font-awesome/fonts/fontawesome-webfont.ttf[m
+	[32mnew file:   css/font-awesome/fonts/fontawesome-webfont.woff[m
+	[32mnew file:   css/font-awesome/less/bordered-pulled.less[m
+	[32mnew file:   css/font-awesome/less/core.less[m
+	[32mnew file:   css/font-awesome/less/fixed-width.less[m
+	[32mnew file:   css/font-awesome/less/font-awesome.less[m
+	[32mnew file:   css/font-awesome/less/icons.less[m
+	[32mnew file:   css/font-awesome/less/larger.less[m
+	[32mnew file:   css/font-awesome/less/list.less[m
+	[32mnew file:   css/font-awesome/less/mixins.less[m
+	[32mnew file:   css/font-awesome/less/path.less[m
+	[32mnew file:   css/font-awesome/less/rotated-flipped.less[m
+	[32mnew file:   css/font-awesome/less/spinning.less[m
+	[32mnew file:   css/font-awesome/less/stacked.less[m
+	[32mnew file:   css/font-awesome/less/variables.less[m
+	[32mnew file:   css/font-awesome/scss/_bordered-pulled.scss[m
+	[32mnew file:   css/font-awesome/scss/_core.scss[m
+	[32mnew file:   css/font-awesome/scss/_fixed-width.scss[m
+	[32mnew file:   css/font-awesome/scss/_icons.scss[m
+	[32mnew file:   css/font-awesome/scss/_larger.scss[m
+	[32mnew file:   css/font-awesome/scss/_list.scss[m
+	[32mnew file:   css/font-awesome/scss/_mixins.scss[m
+	[32mnew file:   css/font-awesome/scss/_path.scss[m
+	[32mnew file:   css/font-awesome/scss/_rotated-flipped.scss[m
+	[32mnew file:   css/font-awesome/scss/_spinning.scss[m
+	[32mnew file:   css/font-awesome/scss/_stacked.scss[m
+	[32mnew file:   css/font-awesome/scss/_variables.scss[m
+	[32mnew file:   css/font-awesome/scss/font-awesome.scss[m
+	[32mnew file:   index.html[m
+	[32mnew file:   js/bootstrap.js[m
+	[32mnew file:   js/bootstrap.min.js[m
+	[32mnew file:   js/grayscale.js[m
+	[32mnew file:   js/jquery.easing.min.js[m
+	[32mnew file:   js/jquery.js[m
+	[32mnew file:   style.css[m
+
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git commit -am"new files from Gergo's site"
+[develop ca75a92] new files from Gergo's site
+ 55 files changed, 8219 insertions(+)
+ create mode 100755 _includes/about.html
+ create mode 100755 _includes/contact.html
+ create mode 100755 _includes/css/bootstrap.min.css
+ create mode 100755 _includes/css/grayscale.css
+ create mode 100755 _includes/footer.html
+ create mode 100755 _includes/head.html
+ create mode 100755 _includes/header.html
+ create mode 100755 _includes/js.html
+ create mode 100755 _includes/mentors.html
+ create mode 100755 _includes/nav.html
+ create mode 100755 _layouts/bio.html
+ create mode 100755 _layouts/default.html
+ create mode 100755 _layouts/style.css
+ create mode 100644 bootstrap
+ create mode 100755 css/font-awesome/css/font-awesome.css
+ create mode 100755 css/font-awesome/css/font-awesome.min.css
+ create mode 100755 css/font-awesome/fonts/FontAwesome.otf
+ create mode 100755 css/font-awesome/fonts/fontawesome-webfont.eot
+ create mode 100755 css/font-awesome/fonts/fontawesome-webfont.svg
+ create mode 100755 css/font-awesome/fonts/fontawesome-webfont.ttf
+ create mode 100755 css/font-awesome/fonts/fontawesome-webfont.woff
+ create mode 100755 css/font-awesome/less/bordered-pulled.less
+ create mode 100755 css/font-awesome/less/core.less
+ create mode 100755 css/font-awesome/less/fixed-width.less
+ create mode 100755 css/font-awesome/less/font-awesome.less
+ create mode 100755 css/font-awesome/less/icons.less
+ create mode 100755 css/font-awesome/less/larger.less
+ create mode 100755 css/font-awesome/less/list.less
+ create mode 100755 css/font-awesome/less/mixins.less
+ create mode 100755 css/font-awesome/less/path.less
+ create mode 100755 css/font-awesome/less/rotated-flipped.less
+ create mode 100755 css/font-awesome/less/spinning.less
+ create mode 100755 css/font-awesome/less/stacked.less
+ create mode 100755 css/font-awesome/less/variables.less
+ create mode 100755 css/font-awesome/scss/_bordered-pulled.scss
+ create mode 100755 css/font-awesome/scss/_core.scss
+ create mode 100755 css/font-awesome/scss/_fixed-width.scss
+ create mode 100755 css/font-awesome/scss/_icons.scss
+ create mode 100755 css/font-awesome/scss/_larger.scss
+ create mode 100755 css/font-awesome/scss/_list.scss
+ create mode 100755 css/font-awesome/scss/_mixins.scss
+ create mode 100755 css/font-awesome/scss/_path.scss
+ create mode 100755 css/font-awesome/scss/_rotated-flipped.scss
+ create mode 100755 css/font-awesome/scss/_spinning.scss
+ create mode 100755 css/font-awesome/scss/_stacked.scss
+ create mode 100755 css/font-awesome/scss/_variables.scss
+ create mode 100755 css/font-awesome/scss/font-awesome.scss
+ create mode 100755 index.html
+ create mode 100755 js/bootstrap.js
+ create mode 100755 js/bootstrap.min.js
+ create mode 100755 js/grayscale.js
+ create mode 100755 js/jquery.easing.min.js
+ create mode 100755 js/jquery.js
+ create mode 100755 style.css
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git push
+fatal: The upstream branch of your current branch does not match
+the name of your current branch.  To push to the upstream branch
+on the remote, use
+
+    git push origin HEAD:gh-pages
+
+To push to the branch of the same name on the remote, use
+
+    git push origin develop
+
+To choose either option permanently, see push.default in 'git help config'.
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git pushcommit -am"new files from Gergo's site"status[K[1Padd *statuscd nyspi-reu/[K[K[K[K[K[K[K[K[K[K[K[K[Kgit ps[Kush origin develo
+error: src refspec develo does not match any.
+error: failed to push some refs to 'git@github.com:GergelyTuri/nyspi-reu.git'
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git push origin develop
+Enter passphrase for key '/home/gergely/.ssh/id_rsa': 
+Enter passphrase for key '/home/gergely/.ssh/id_rsa': 
+Counting objects: 67, done.
+Delta compression using up to 16 threads.
+Compressing objects:   1% (1/64)   Compressing objects:   3% (2/64)   Compressing objects:   4% (3/64)   Compressing objects:   6% (4/64)   Compressing objects:   7% (5/64)   Compressing objects:   9% (6/64)   Compressing objects:  10% (7/64)   Compressing objects:  12% (8/64)   Compressing objects:  14% (9/64)   Compressing objects:  15% (10/64)   Compressing objects:  17% (11/64)   Compressing objects:  18% (12/64)   Compressing objects:  20% (13/64)   Compressing objects:  21% (14/64)   Compressing objects:  23% (15/64)   Compressing objects:  25% (16/64)   Compressing objects:  26% (17/64)   Compressing objects:  28% (18/64)   Compressing objects:  29% (19/64)   Compressing objects:  31% (20/64)   Compressing objects:  32% (21/64)   Compressing objects:  34% (22/64)   Compressing objects:  35% (23/64)   Compressing objects:  37% (24/64)   Compressing objects:  39% (25/64)   Compressing objects:  40% (26/64)   Compressing objects:  42% (27/64)   Compressing objects:  43% (28/64)   Compressing objects:  45% (29/64)   Compressing objects:  46% (30/64)   Compressing objects:  48% (31/64)   Compressing objects:  50% (32/64)   Compressing objects:  51% (33/64)   Compressing objects:  53% (34/64)   Compressing objects:  54% (35/64)   Compressing objects:  56% (36/64)   Compressing objects:  57% (37/64)   Compressing objects:  59% (38/64)   Compressing objects:  60% (39/64)   Compressing objects:  62% (40/64)   Compressing objects:  64% (41/64)   Compressing objects:  65% (42/64)   Compressing objects:  67% (43/64)   Compressing objects:  68% (44/64)   Compressing objects:  70% (45/64)   Compressing objects:  71% (46/64)   Compressing objects:  73% (47/64)   Compressing objects:  75% (48/64)   Compressing objects:  76% (49/64)   Compressing objects:  78% (50/64)   Compressing objects:  79% (51/64)   Compressing objects:  81% (52/64)   Compressing objects:  82% (53/64)   Compressing objects:  84% (54/64)   Compressing objects:  85% (55/64)   Compressing objects:  87% (56/64)   Compressing objects:  89% (57/64)   Compressing objects:  90% (58/64)   Compressing objects:  92% (59/64)   Compressing objects:  93% (60/64)   Compressing objects:  95% (61/64)   Compressing objects:  96% (62/64)   Compressing objects:  98% (63/64)   Compressing objects: 100% (64/64)   Compressing objects: 100% (64/64), done.
+Writing objects:   1% (1/67)   Writing objects:   2% (2/67)   Writing objects:   4% (3/67)   Writing objects:   5% (4/67)   Writing objects:   7% (5/67)   Writing objects:   8% (6/67)   Writing objects:  10% (7/67)   Writing objects:  11% (8/67)   Writing objects:  13% (9/67)   Writing objects:  14% (10/67)   Writing objects:  16% (11/67)   Writing objects:  17% (12/67)   Writing objects:  19% (13/67)   Writing objects:  20% (14/67)   Writing objects:  22% (15/67)   Writing objects:  23% (16/67)   Writing objects:  25% (17/67)   Writing objects:  26% (18/67)   Writing objects:  28% (19/67)   Writing objects:  29% (20/67)   Writing objects:  31% (21/67)   Writing objects:  32% (22/67)   Writing objects:  34% (23/67)   Writing objects:  35% (24/67)   Writing objects:  37% (25/67)   Writing objects:  38% (26/67)   Writing objects:  40% (27/67)   Writing objects:  41% (28/67)   Writing objects:  43% (29/67)   Writing objects:  44% (30/67)   Writing objects:  46% (31/67)   Writing objects:  47% (32/67)   Writing objects:  49% (33/67)   Writing objects:  52% (35/67)   Writing objects:  53% (36/67)   Writing objects:  55% (37/67)   Writing objects:  56% (38/67)   Writing objects:  58% (39/67)   Writing objects:  59% (40/67)   Writing objects:  61% (41/67)   Writing objects:  62% (42/67)   Writing objects:  64% (43/67)   Writing objects:  65% (44/67)   Writing objects:  67% (45/67)   Writing objects:  68% (46/67)   Writing objects:  70% (47/67)   Writing objects:  71% (48/67)   Writing objects:  73% (49/67)   Writing objects:  74% (50/67)   Writing objects:  76% (51/67)   Writing objects:  77% (52/67)   Writing objects:  79% (53/67)   Writing objects:  80% (54/67)   Writing objects:  82% (55/67)   Writing objects:  83% (56/67)   Writing objects:  85% (57/67)   Writing objects:  86% (58/67)   Writing objects:  88% (59/67)   Writing objects:  89% (60/67)   Writing objects:  91% (61/67)   Writing objects:  92% (62/67)   Writing objects:  94% (63/67)   Writing objects:  95% (64/67)   Writing objects:  97% (65/67)   Writing objects:  98% (66/67)   Writing objects: 100% (67/67)   Writing objects: 100% (67/67), 457.68 KiB | 8.17 MiB/s, done.
+Total 67 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)[Kremote: Resolving deltas:  20% (1/5)[Kremote: Resolving deltas:  40% (2/5)[Kremote: Resolving deltas:  60% (3/5)[Kremote: Resolving deltas:  80% (4/5)[Kremote: Resolving deltas: 100% (5/5)[Kremote: Resolving deltas: 100% (5/5), completed with 1 local object.[K
+To github.com:GergelyTuri/nyspi-reu.git
+   8178ceb..ca75a92  develop -> develop
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git add *
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00

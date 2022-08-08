@@ -374,4 +374,47 @@ remote: Resolving deltas:   0% (0/5)[Kremote: Resolving deltas:  20% (1/5)[K
 To github.com:GergelyTuri/nyspi-reu.git
    8178ceb..ca75a92  develop -> develop
 (base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git add *
-(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git commit -am"adding missng[K[King pieces"
+[develop b1fa285] adding missing pieces
+ 8 files changed, 474 insertions(+), 8 deletions(-)
+ create mode 100755 _includes/analytics.html
+ create mode 100755 _includes/download.html
+ create mode 100755 pages/aboutGergely.html
+ create mode 100755 pages/aboutKally.html
+ create mode 100755 pages/links.html
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git [K[K[K[Kgit commit -am"adding missing pieces"add *[Kpush origin develop
+Enter passphrase for key '/home/gergely/.ssh/id_rsa': 
+Enter passphrase for key '/home/gergely/.ssh/id_rsa': 
+Enter passphrase for key '/home/gergely/.ssh/id_rsa': 
+Counting objects: 13, done.
+Delta compression using up to 16 threads.
+Compressing objects:   7% (1/13)   Compressing objects:  15% (2/13)   Compressing objects:  23% (3/13)   Compressing objects:  30% (4/13)   Compressing objects:  38% (5/13)   Compressing objects:  46% (6/13)   Compressing objects:  53% (7/13)   Compressing objects:  61% (8/13)   Compressing objects:  69% (9/13)   Compressing objects:  76% (10/13)   Compressing objects:  84% (11/13)   Compressing objects:  92% (12/13)   Compressing objects: 100% (13/13)   Compressing objects: 100% (13/13), done.
+Writing objects:   7% (1/13)   Writing objects:  15% (2/13)   Writing objects:  23% (3/13)   Writing objects:  30% (4/13)   Writing objects:  38% (5/13)   Writing objects:  46% (6/13)   Writing objects:  53% (7/13)   Writing objects:  61% (8/13)   Writing objects:  69% (9/13)   Writing objects:  76% (10/13)   Writing objects:  92% (12/13)   Writing objects: 100% (13/13)   Writing objects: 100% (13/13), 7.57 KiB | 1.89 MiB/s, done.
+Total 13 (delta 7), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/7)[Kremote: Resolving deltas:  14% (1/7)[Kremote: Resolving deltas:  28% (2/7)[Kremote: Resolving deltas:  42% (3/7)[Kremote: Resolving deltas:  57% (4/7)[Kremote: Resolving deltas:  71% (5/7)[Kremote: Resolving deltas:  85% (6/7)[Kremote: Resolving deltas: 100% (7/7)[Kremote: Resolving deltas: 100% (7/7), completed with 5 local objects.[K
+To github.com:GergelyTuri/nyspi-reu.git
+   ca75a92..b1fa285  develop -> develop
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git push origin developcommit -am"adding missing pieces"add *[Kpush origin develop[K[Kcommit -am"new files from Gergo's site"push[K origin developadd *[Kcommit -am"adding missing pieces"[14Ppush origin develop[Kgit status
+On branch develop
+Your branch is ahead of 'origin/gh-pages' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   _includes/nav.html[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git comm[K[K[K[K[K[K[K[Kgit commit -am"mo[K[Kedits"
+[develop 54919fa] edits
+ 4 files changed, 6 insertions(+), 3 deletions(-)
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git status
+On branch develop
+Your branch is ahead of 'origin/gh-pages' by 4 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+(base) ]0;gergely@coreserver: ~/code/nyspi-reu[01;32mgergely@coreserver[00m:[01;35m~/code/nyspi-reu[00m$ git push origign [K[K[K[K[Kgin deveo[K[Kelop
+Enter passphrase for key '/home/gergely/.ssh/id_rsa': 
+Counting objects: 7, 

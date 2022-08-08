@@ -1,5 +1,8 @@
 theme: jekyll-theme-slate
 title: [Research Experience for Undergraduates at New York State Psychiatric Institute (NYSPI)]
+email: gt2253@nyspi.columbia.edu
+url: ""
+baseurl: ""
 description: [Neuroscience Summer Undergraduate Research Experience in Developmental/Translational Neuroscience (Neuro-SURE)]
 
 markdown: kramdown

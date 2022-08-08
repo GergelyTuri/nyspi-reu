@@ -1,2 +1,1 @@
-# Research Experience for Undergraduates at NYSPI
-PsycHiAtric Research Training (PHART)  
+# Neuroscience Summer Undergraduate Research Experience in Developmental/Translational Neuroscience (Neuro-SURE)
